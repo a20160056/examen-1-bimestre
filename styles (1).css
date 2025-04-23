@@ -1,0 +1,25 @@
+h1 {
+  text-decoration: underline;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: brown;
+  size: 50px;
+}
+h2 {
+  text-align: right;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  size: 20px;
+  color: #800080;
+}
+h3 {
+  text-align: right;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  size: 20px;
+  color: #800080;
+}
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  size: 17px;
+  text-align: justify;
+  color: chocolate;
+}
